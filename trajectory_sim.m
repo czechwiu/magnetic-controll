@@ -1,8 +1,6 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %   trajectory control simulation
-%   Bosheng Wu bw493@drexel.edu
-%   
-%
+%   czechiu@link.cuhk.edu.hk
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 syms z p;
 %% magnetic field model
